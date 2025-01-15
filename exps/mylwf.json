@@ -1,0 +1,12 @@
+{
+    "prefix": "reproduce",
+    "dataset": "mydataset",
+    "memory_size": 320,
+    "memory_per_class": 10,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls": 8,
+    "increment": 8,
+    "model_name": "mylwf",
+    "seed": [1993]
+}

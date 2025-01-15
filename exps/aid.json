@@ -1,0 +1,12 @@
+{
+    "prefix": "reproduce",
+    "dataset": "mydataset",
+    "memory_size": 160,
+    "memory_per_class": 5,
+    "fixed_memory": false,
+    "shuffle": true,
+    "init_cls":32,
+    "increment":2,
+    "model_name": "AID",
+    "seed": [1993]
+}
